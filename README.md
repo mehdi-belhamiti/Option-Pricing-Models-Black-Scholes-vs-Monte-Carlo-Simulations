@@ -1,4 +1,4 @@
-# Option Pricing : From Monte-Carlo to Black-Scholes 📈
+# Option Pricing : From Monte-Carlo to Black-Scholes
 
 This repository presents the implementation of two classic quantitative finance methods for pricing European options
 
