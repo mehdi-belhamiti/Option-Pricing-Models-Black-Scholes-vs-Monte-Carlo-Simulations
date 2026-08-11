@@ -4,7 +4,7 @@ This repository presents the implementation of two classic quantitative finance 
 
 ## Project Overview
 
-I chose to generate $M = 1000$ different paths.
+I chose to generate $M = 1000$ different paths to see how fast the Monte-Carlo estimator converges.
 The project explores and compares different pricing models, focusing on :
 
 **Black-Scholes Analytical Model** : Using closed-form formulas to evaluate the theoretical price of an option based on Geometric Brownian Motion
