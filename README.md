@@ -23,7 +23,7 @@ The project explores and compares different pricing models, focusing on :
 
 ##  Documentation
 
-[📖 Click here to read the full report in French (PDF)](https://github.com/mehdi-belhamiti/Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations/blob/main/Mode%CC%80le%20Black-Scholes%20et%20Me%CC%81thode%20de%20Monte-Carlo-Finance.pdf)
+[Click here to read the full report in French (PDF)](https://github.com/mehdi-belhamiti/Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations/blob/main/Mode%CC%80le%20Black-Scholes%20et%20Me%CC%81thode%20de%20Monte-Carlo-Finance.pdf)
 
 ## Technologies and Libraries Used
 * **Python**
